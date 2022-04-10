@@ -1,0 +1,20 @@
+{
+  "id": "code/diegopetrola/happywhale-arcface-baseline-tpu",
+  "id_no": 26000314,
+  "title": "HappyWhale ArcFace Baseline (TPU)",
+  "code_file": "happywhale-arcface-baseline-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "datasets/ks2019/happywhale-splits",
+    "datasets/ks2019/happywhale-tfrecords-v1"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/happy-whale-and-dolphin"
+  ]
+}
